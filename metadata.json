@@ -1,0 +1,6 @@
+{
+  "name": "Dishwish",
+  "description": "Upscale Japanese fusion table-ordering and restaurant management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
